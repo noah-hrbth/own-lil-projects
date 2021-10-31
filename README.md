@@ -1,2 +1,2 @@
 # Eigene Projekte
-Jedes Projekt hat einen eigenen Branch
+Random Fox Image Generator
